@@ -1,2 +1,2 @@
-# wing-s
+# wings
 my e-commerce project completed
